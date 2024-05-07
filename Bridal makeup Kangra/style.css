@@ -137,3 +137,11 @@ span {
     transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1); 
     transform: scale(1.2);
 }
+@media(max-width:450px) {
+    html {
+        font-size: 50%;
+    }
+
+    .head {
+        padding: 3rem;
+    }
