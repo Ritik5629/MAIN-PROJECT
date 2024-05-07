@@ -1,2 +1,1 @@
-# MAIN-PROJECT
-This is my bca project 
+this is project created by bca students
